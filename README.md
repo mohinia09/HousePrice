@@ -21,7 +21,9 @@ How well those variables describe the price of a house.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-
+- The alpha vales for Ridge and LAsso regression were: 2 and 0.01 respectively
+- The model performance for both were good but Ridge had better results.
+- Lasso regression helps better in feature selection over Ridge regression.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
