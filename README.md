@@ -27,13 +27,13 @@ How well those variables describe the price of a house.
 
 
 ## Technologies Used
-pandas
-seaborn  
-matplotlib.pyplot
-sklearn.model_selection
-sklearn.linear_model
-sklearn.metrics
-sklearn.model_selection
+- pandas
+- seaborn  
+- matplotlib.pyplot
+- sklearn.model_selection
+- sklearn.linear_model
+- sklearn.metrics
+- sklearn.model_selection
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
